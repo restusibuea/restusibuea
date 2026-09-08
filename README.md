@@ -39,14 +39,9 @@
 
 ## 📊 Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=restusibuea&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=restusibuea&theme=tokyonight&hide_border=true" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=restusibuea&theme=tokyo-night&hide_border=true" />
-</p>
-
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=restusibuea&theme=tokyo-night&hide_border=true" /> </p>
 ---
 
 ## 🧠 Philosophy
