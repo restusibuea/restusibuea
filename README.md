@@ -37,14 +37,14 @@
 
 ---
 
-## 📊 Stats
+## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=restusibuea&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=restusibuea&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=restusibuea&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=restusibuea&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
