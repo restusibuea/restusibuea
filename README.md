@@ -48,12 +48,10 @@
 
 > Build simple. Scale smart. Stay consistent.
 
-<!-- Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/restusibuea/restusibuea/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!-- Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=restusibuea&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/restusibuea/restusibuea/output/github-contribution-grid-snake.svg" />
 </p>
